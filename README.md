@@ -3,6 +3,8 @@
 
 This project focuses on performing Exploratory Data Analysis (EDA) and Machine Learning on IPL ball-by-ball dataset.
 
+## Project includes EDA, Statistics and Machine Learning
+
 ## 🎯 Objective
 To analyze team performance, scoring trends, and predict run categories using machine learning.
 
