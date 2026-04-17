@@ -32,5 +32,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## 📌 Conclusion
 This project demonstrates how data analysis and machine learning can be applied to sports analytics.
 
+## Thank you for checking this project!
 ## 🔗 Author
 Alisha
